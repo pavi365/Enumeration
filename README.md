@@ -33,7 +33,7 @@ Google hacking, also known as Google dorking, is a technique that involves using
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
 
-## Output
+## Output:
 
 ![image](https://github.com/pavi365/Enumeration/assets/115135775/48d51d17-c17b-4d24-b6d0-532df88bca92)
 
@@ -41,13 +41,13 @@ Following searches for all the sites that is in the domain yahoo.com
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
 
-## Output
+## Output:
 
 ![image](https://github.com/pavi365/Enumeration/assets/115135775/82e1d442-38cb-4aa2-8f07-7cc75abe1e18)
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 
-## Output
+## Output:
 
 ![image](https://github.com/pavi365/Enumeration/assets/115135775/66935f3a-2c37-4763-8690-69950450babb)
 
@@ -55,28 +55,28 @@ intext: This operator allows you to search for pages that contain specific text 
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
-## Output
+## Output:
 
 ![image](https://github.com/pavi365/Enumeration/assets/115135775/01ead93a-f67b-4bd8-b08e-b88bb17370ad)
 
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
 
-## Output
+## Output:
 
 ![image](https://github.com/pavi365/Enumeration/assets/115135775/e7236588-aeae-45a3-a336-488b2fa5da47)
 
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 
-## Output
+## Output:
 
 ![image](https://github.com/pavi365/Enumeration/assets/115135775/9cc5b945-977d-48a2-86a1-e54133aac3cc)
 
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
-## Output
+## Output:
 
 ![image](https://github.com/pavi365/Enumeration/assets/115135775/24f13abf-f05d-4bb0-aaae-b22887c3c230)
 
